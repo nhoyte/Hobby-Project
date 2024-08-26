@@ -1,1 +1,1 @@
-Simple site illustrating dark mode/light mode all about one of my favorite hobbies, nails! 
+A simple site illustrating one of my favorite hobbies, nails! The feature highlighted on this site is the option to toggle between light mode and dark mode. 
